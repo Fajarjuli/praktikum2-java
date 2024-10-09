@@ -11,45 +11,45 @@
 
   > Class Diagram
 
-  ![](Photo/person.png)
+  ![](screenshot/person.png)
 
   > Object Instances
 
-  ![](Photo/antor.png)
-  ![](Photo/riko.png)
+  ![](screensho/antor.png)
+  ![](screensho/riko.png)
 
 **3. Buatlah gambar diagram objek AkunBank dengan instance method simpan Uang, ambilUang dan cekSaldo!**
   > Classs Diagram
 
-  ![](Photo/akunbank.png)
+  ![](screensho/akunbank.png)
 
   > Object Instances
 
-  ![](Photo/akunbankpengguna.png)
+  ![](screensho/akunbankpengguna.png)
 
 ## Latihan 2
-![](Photo/soal2.png)
+![](screensho/soal2.png)
 
 **Buatlah kode program java untuk:**
 
 - Mendeklarasikan class Person, dengan atribut Nama,JenisKelamin, Umur
 - Buatlah dua buah objek dari class Person bernama Anton dan Riko
 
-![](Photo/codeperson.png)
+![](screensho/codeperson.png)
 
 ## Output:
-![](Photo/outputperson.png)
+![](screensho/outputperson.png)
 
 ## Latihan 3
-![](Photo/soal3.png)
+![](screensho/soal3.png)
 
 **Buatlah kode java untuk:**
 
 - Mendeklarasikan class AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 - Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000, kemudian panggil 3 method tersebut dan tampilkan proses
 
-![](Photo/codeakunbankpng)
+![](screensho/codeakunbankpng)
 
 ## Output:
 
-![](Photo/ooutputakunbank.png)
+![](screensho/ooutputakunbank.png)
