@@ -1,2 +1,2 @@
-# praktikum2
-> s
+# Pemrograman Orientasi Object praktikum2
+
