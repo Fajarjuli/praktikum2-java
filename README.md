@@ -1,7 +1,7 @@
 # Pemrograman Orientasi Object praktikum2
 
 ## Latihan 1
-![](Photo/soal1.png)
+![](screenshot/soal1.png)
 
 **1. Apa yang harus didefinisikan sebelum membuat objek?**
 
